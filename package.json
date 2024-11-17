@@ -1,0 +1,10 @@
+{
+  "main": "api/log.js",
+  "scripts": {
+    "start": "node api/log.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1"
+  }
+}
